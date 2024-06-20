@@ -3,7 +3,7 @@
 Меня зовут Александр, мне 19 лет, и я увлекаюсь программированием и разработкой в различных направлениях. В своей работе я использую несколько языков программирования, таких как Python, C++, C#, HTML, CSS и JavaScript.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_никнейм_на_GitHub&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimaet&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
